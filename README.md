@@ -1,12 +1,12 @@
 # Minecraft External Mod-Loader (MEM-L)
 Minecraft External Mod-Loader, also known as MEM-L, is developed by BJune.
 
-
-## Table of Contents
-- [1. What is it?](#what-is-it?)
-- [2. Installation](#installation)
-- [3. Usage](#usage)
-- [4. Final Note](#final-note)
+- [Minecraft External Mod-Loader (MEM-L)](#minecraft-external-mod-loader--mem-l-)
+  * [1. What is it?](#1-what-is-it-)
+    + [It's Mission:](#it-s-mission-)
+  * [2. Installation](#2-installation)
+  * [3. Usage](#3-usage)
+  * [4. Final Note](#4-final-note)
 
 ## 1. What is it?
 MEM-L is used for easily loading and unloading Minecraft mods in an easy to use CLI format. It does **not** provide or limit what mods the user wants to load. **You assume all risks**. In doing this, it is MEM-L is very hands off. It does not start the game automatically, meaning you should use any launcher you want giving more options for the user.
